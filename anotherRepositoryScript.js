@@ -1,0 +1,1 @@
+../local-storage-task-21.4/script.js
